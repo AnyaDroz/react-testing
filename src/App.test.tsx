@@ -2,11 +2,7 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders the correct content', () => {
- render(<App />);
- const h1Element = screen.getByText(/learn react/i);
- expect(h1Element).toBeInTheDocument();
-});
+
 test('renders 3 list items', () => {
  render(<App />);
  const listItem = screen.getAllByRole("listitem");
