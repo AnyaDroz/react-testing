@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Productivity, consistency, comfort & confidence.
+Ene-to-end: spin up your app and simulate user behaviour. Like a roboto performing a task in your app.
+Integration: Multiple units work together
+Unit: Verify the functionality of a single component
+Static: Catch typos and errors while writing code.
+
 ## Available Scripts
 
 In the project directory, you can run:
